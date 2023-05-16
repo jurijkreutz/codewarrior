@@ -1,5 +1,7 @@
 # Codewarrior
 
+![Profile badge](https://www.codewars.com/users/jurijk97/badges/large)
+
 In this repository I collect some of my Katas, which I solved during the 'Advanced Module' and 'Jobhunt Phase' in my time at the Codecool Full Stack Course.
 
 ## Structure
