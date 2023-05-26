@@ -18,7 +18,8 @@ public class HexToRGBTest {
                 Arguments.of(new int[] {255, 153,  51}, "#FF9933"),
                 Arguments.of(new int[] {190, 173, 237}, "#beaded"),
                 Arguments.of(new int[] {255, 255, 255}, "#FFFFFF"),
-                Arguments.of(new int[] {250,  52,  86}, "#Fa3456"));
+                Arguments.of(new int[] {250,  52,  86}, "#Fa3456"),
+                Arguments.of(new int[] {186, 221, 255}, "#BADDFF"));
     }
 
     @ParameterizedTest
